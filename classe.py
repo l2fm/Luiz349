@@ -26,6 +26,3 @@ class Cachorro(Animal):
         self.raca=raca
         self.racional=racional
 
-
-    # def latir(self):    
-    #     print("Au,Au")
